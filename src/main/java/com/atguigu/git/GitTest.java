@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("push测试  到远程库");
+        System.out.println("pull测试  从远程库到本地库");
     }
 }
